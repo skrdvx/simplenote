@@ -1,5 +1,5 @@
-# Messenger for Franz
-This is the official Franz recipe for Messenger
+# Simplenote for Franz
+This is unofficial Franz recipe for Simplenote
 
 ### How to create your own Franz recipes:
 * [Read the documentation](https://github.com/meetfranz/plugins)
