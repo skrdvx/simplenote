@@ -1,24 +1,24 @@
 {
-  "id": "simplenote",
-  "name": "Simplenote",
-  "version": "1.1.3",
-  "description": "The simplest way to keep notes.",
-  "main": "index.js",
-  "author": "Dmitriy Skudarnov <skrdvx@gmail.com>",
-  "license": "MIT",
-  "repository": "https://github.com/skrdv/simplenote",
-  "config": {
-    "serviceURL": "https://app.simplenote.com",
-    "serviceName": "Simplenote",
-    "message": "",
-    "popup": [],
-    "hasNotificationSound": true,
-    "hasIndirectMessages": false,
-    "customURL": false,
-    "hasTeamID": false,
-    "webviewOptions": {
-      "disablewebsecurity": ""
-    },
-    "openDevTools": false
-  }
+    "id": "simplenote",
+    "name": "Simplenote",
+    "version": "1.0.1",
+    "description": "The simplest way to keep notes",
+    "main": "index.js",
+    "author": "Dmitriy Skudarnov <skrdvx@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/skrdv/simplenote",
+    "config": {
+        "serviceURL": "https://app.simplenote.com",
+        "serviceName": "Simplenote",
+        "message": "",
+        "popup": [],
+        "hasNotificationSound": true,
+        "hasIndirectMessages": false,
+        "customURL": false,
+        "hasTeamID": false,
+        "webviewOptions": {
+            "disablewebsecurity": ""
+        },
+        "openDevTools": false
+    }
 }
